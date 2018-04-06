@@ -1,6 +1,6 @@
 # GET_NEXT_LINE
 
-# Introduction
+## Introduction
 
 Vous commencez maintenant à vous rendre compte qu’à chaque fois que vous retrouvez
 dans la situation de lire des données depuis un file descriptor et que cette donnée
@@ -14,7 +14,7 @@ une fonction vous permettant de lire une ligne terminée par une retour à la li
 un file descriptor, l’ajouter à votre libft si le coeur vous en dit, et surtout l’utiliser dans
 tous vos projets suivants qui en auront besoin.
 
-# Objectifs
+## Objectifs
 
 Ce projet va non seulement vous permettre d’ajouter une fonction très pratique à
 votre collection, mais vous permettra également d’aborder un nouvel élément surprenant
